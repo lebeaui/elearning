@@ -1,11 +1,5 @@
-.content-content .node a,
-.content-content .node a:visited {
+.content-content .node p a {
 	font-weight: bold;
-}
-
-.content-content .terms a,
-.content-content .links a {
-	font-weight: normal;
 }
 
 /* list style */
