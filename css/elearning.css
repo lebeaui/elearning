@@ -1,4 +1,4 @@
-.content-content .node p a {
+.main a, .main a:visited {
 	font-weight: bold;
 }
 
@@ -30,4 +30,11 @@
 .content .panel-pane .view-footer {
 	margin-top: 10px;
 	font-weight: bold;
+}
+
+.content .panel-pane li a,
+.content .panel-pane li a:visited,
+#block-block-2 a,
+#block-block-2 a:visited {
+	font-weight: normal;
 }
